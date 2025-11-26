@@ -4,7 +4,7 @@ This repository contains a demonstration and visualization resources for **R3D**
 
 ## 📝 Overview
 
-**R3D** proposes a **Rank-enhancing Token Fuser (RTF)** to address modality collapse in multi-modal learning (specifically RGB + Depth). The method selectively blends features from one modality with complementary features from another to increase the **effective rank** of the fused representation, thereby enhancing the information content and improving performance in Action Anticipation tasks.
+**R3D** proposes a **Rank-enhancing Token Fuser (RTF)** to address feature collapse and modality collapse in multi-modal learning. The method selectively blends features from one modality with complementary features from another to increase the effective rank of the fused representation, thereby enhancing the information content and improving performance in Action Anticipation tasks.
 
 This demo specifically highlights:
 * **Feature Visualization**: Visualizing raw depth features vs. "exchanged" or fused features.
